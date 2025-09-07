@@ -1,5 +1,15 @@
-# Proyecto-Final-SQL---Valdez-Javier
-Cree una base de datos para comprender la dimensión de la problematicas que hay en el mercado inmobiliario, en este proceso nos centraremos a preescribir los departasmentos mas accesibles, evolución de los precios en el tiempo y si existe una relación entre las ventas y la adquisición de los creditos hipotecarios.
+Proyecto Final SQL – Valdez Javier
 
-El objetivo es entender el por que es tán costoso el acceso a la primera vivienda para brindar un panorama mas claro sobre los puntos a tener en cuenta a la hora de independizarse.
-Fuente: https://data.buenosaires.gob.ar/dataset/mercado-inmobiliario
+Este proyecto consiste en la creación de una base de datos para analizar la problemática del mercado inmobiliario en la Ciudad de Buenos Aires.
+
+El objetivo principal es estudiar:
+
+Qué zonas y departamentos resultan más accesibles.
+
+La evolución de los precios de venta y alquiler en el tiempo.
+
+La relación entre las ventas de inmuebles y la adquisición de créditos hipotecarios.
+
+La intención es comprender mejor por qué el acceso a la primera vivienda resulta tan costoso, y así aportar un panorama más claro sobre los factores a tener en cuenta al momento de independizarse.
+
+Fuente de datos: Buenos Aires Data – Mercado Inmobiliario
