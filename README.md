@@ -2,7 +2,7 @@
 
 Este proyecto consiste en la creación de una base de datos para analizar la problemática del mercado inmobiliario en la Ciudad de Buenos Aires.
 
-El objetivo principal es estudiar:
+Nos propondremos a estudiar diferentes conceptos a partir de 3 items/ideas principales a seguir:
 
 - Qué zonas y departamentos resultan más accesibles.
 
