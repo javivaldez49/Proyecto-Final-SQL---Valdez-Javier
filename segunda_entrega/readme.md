@@ -1,6 +1,6 @@
 # Proyecto Final SQL – Sistema de Gestión Inmobiliaria
 
-Este repositorio contiene la segunda entrega del proyecto final de la materia **Base de Datos**.
+Este repositorio contiene la segunda entrega del proyecto final del curso **SQL**.
 
 ## 📁 Estructura
 - **Entrega2_Valdez.pdf** → documentación completa (tablas, vistas, funciones, SP, triggers e importación).
