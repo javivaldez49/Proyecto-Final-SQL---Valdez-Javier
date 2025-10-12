@@ -1,4 +1,4 @@
-## *Proyecto Final SQL – Valdez Javier*
+# Proyecto Final SQL – Sistema de Gestión Inmobiliaria
 
 Este proyecto consiste en la creación de una base de datos para analizar la problemática del mercado inmobiliario en la Ciudad de Buenos Aires.
 
@@ -14,8 +14,6 @@ La intención es comprender mejor por qué el acceso a la primera vivienda resul
 y así aportar un panorama más claro sobre los factores a tener en cuenta al momento de independizarse.
 
 Fuente de datos: https://data.buenosaires.gob.ar/dataset/mercado-inmobiliario
-
-# Proyecto Final SQL – Sistema de Gestión Inmobiliaria
 
 ## 📁 Estructura
 - **Entrega2_Valdez.pdf** → documentación completa (tablas, vistas, funciones, SP, triggers e importación).
