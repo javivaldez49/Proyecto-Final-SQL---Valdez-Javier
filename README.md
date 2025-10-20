@@ -15,10 +15,27 @@ y así aportar un panorama más claro sobre los factores a tener en cuenta al mo
 
 Fuente de datos: https://data.buenosaires.gob.ar/dataset/mercado-inmobiliario
 
-## 📁 Estructura
-- **Entrega2_Valdez.pdf** → documentación completa (tablas, vistas, funciones, SP, triggers e importación).
-- **scripts_sql/creacion_objetos.sql** → script que genera todos los objetos del proyecto.
-- **datos_importacion/** → archivos CSV utilizados para cargar los datos mediante el asistente de importación de MySQL Workbench.
+## 📁 Estructura del Repositorio
+
+### 🟦 **Entrega 1**
+Contiene la primera parte del proyecto, centrada en el diseño y creación de la base de datos.
+
+**Archivos incluidos:**
+- `Documentación - Valdez Javier.pdf` → Documento con el análisis inicial, modelo entidad-relación y descripción de tablas.  
+- `codigo.txt` → Código base utilizado para la creación inicial de la estructura de la base.  
+- `Script.sql` → Script SQL con la **creación completa de las tablas** (sin datos).
+
+📌 Esta entrega refleja el diseño estructural y la definición de claves primarias y foráneas del sistema.
+
+---
+
+### 🟩 **Entrega 2**
+Incluye la ampliación del proyecto con vistas, funciones, procedimientos almacenados, triggers e importación de datos.
+
+**Contenido principal:**
+- `Entrega2_Valdez.pdf` → Documento con el detalle de vistas, funciones, stored procedures y triggers.  
+- `creacion_objetos.sql` → Script que crea todos los objetos de la base de datos (vistas, funciones, procedimientos, triggers).  
+- Carpeta `datos_importacion/` con los archivos CSV numerados según el orden correcto de carga:
 
 ## 🧱 Descripción general
 El proyecto modela un sistema de gestión inmobiliaria que analiza:
