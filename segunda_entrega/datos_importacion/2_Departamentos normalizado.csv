@@ -1,11 +1,11 @@
 id_departamento;barrio;id_comuna;ambientes;estado;superficie
-;Agronom­a;15;2;Usado;320
-;Agronom­a;15;2;Usado;538
-;Agronom­a;15;2;Usado;434
-;Agronom­a;15;2;Usado;363
-;Agronom­a;15;2;Usado;312
-;Agronom­a;15;2;Usado;241
-;Agronom­a;15;2;Usado;170
+;AgronomÂ­a;15;2;Usado;320
+;AgronomÂ­a;15;2;Usado;538
+;AgronomÂ­a;15;2;Usado;434
+;AgronomÂ­a;15;2;Usado;363
+;AgronomÂ­a;15;2;Usado;312
+;AgronomÂ­a;15;2;Usado;241
+;AgronomÂ­a;15;2;Usado;170
 ;Almagro;5;2;Usado;172
 ;Almagro;5;2;Usado;262
 ;Almagro;5;2;Usado;423
@@ -287,31 +287,31 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Colegiales;13;2;Usado;1177
 ;Colegiales;13;2;Usado;975
 ;Colegiales;13;2;Usado;606
-;Constituci½n;1;2;Usado;707
-;Constituci½n;1;2;Usado;587
-;Constituci½n;1;2;Usado;658
-;Constituci½n;1;2;Usado;9897
-;Constituci½n;1;2;Usado;10140
-;Constituci½n;1;2;Usado;8518
-;Constituci½n;1;2;Usado;11900
-;Constituci½n;1;2;Usado;10701
-;Constituci½n;1;2;Usado;10855
-;Constituci½n;1;2;Usado;7646
-;Constituci½n;1;2;Usado;8985
-;Constituci½n;1;2;Usado;8355
-;Constituci½n;1;2;Usado;5393
-;Constituci½n;1;2;Usado;10177
-;Constituci½n;1;2;Usado;9648
-;Constituci½n;1;2;Usado;11148
-;Constituci½n;1;2;Usado;10374
-;Constituci½n;1;2;Usado;10491
-;Constituci½n;1;2;Usado;11267
-;Constituci½n;1;2;Usado;8782
-;Constituci½n;1;2;Usado;6816
-;Constituci½n;1;2;Usado;7409
-;Constituci½n;1;2;Usado;9404
-;Constituci½n;1;2;Usado;9496
-;Constituci½n;1;2;Usado;8313
+;ConstituciÂ½n;1;2;Usado;707
+;ConstituciÂ½n;1;2;Usado;587
+;ConstituciÂ½n;1;2;Usado;658
+;ConstituciÂ½n;1;2;Usado;9897
+;ConstituciÂ½n;1;2;Usado;10140
+;ConstituciÂ½n;1;2;Usado;8518
+;ConstituciÂ½n;1;2;Usado;11900
+;ConstituciÂ½n;1;2;Usado;10701
+;ConstituciÂ½n;1;2;Usado;10855
+;ConstituciÂ½n;1;2;Usado;7646
+;ConstituciÂ½n;1;2;Usado;8985
+;ConstituciÂ½n;1;2;Usado;8355
+;ConstituciÂ½n;1;2;Usado;5393
+;ConstituciÂ½n;1;2;Usado;10177
+;ConstituciÂ½n;1;2;Usado;9648
+;ConstituciÂ½n;1;2;Usado;11148
+;ConstituciÂ½n;1;2;Usado;10374
+;ConstituciÂ½n;1;2;Usado;10491
+;ConstituciÂ½n;1;2;Usado;11267
+;ConstituciÂ½n;1;2;Usado;8782
+;ConstituciÂ½n;1;2;Usado;6816
+;ConstituciÂ½n;1;2;Usado;7409
+;ConstituciÂ½n;1;2;Usado;9404
+;ConstituciÂ½n;1;2;Usado;9496
+;ConstituciÂ½n;1;2;Usado;8313
 ;Flores;7;2;Usado;9504
 ;Flores;7;2;Usado;9599
 ;Flores;7;2;Usado;9222
@@ -464,27 +464,27 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Monserrat;1;2;Usado;776
 ;Monserrat;1;2;Usado;1063
 ;Nueva Pompeya;4;2;Usado;353
-;NœÏez;13;2;Usado;482
-;NœÏez;13;2;Usado;268
-;NœÏez;13;2;Usado;117
-;NœÏez;13;2;Usado;360
-;NœÏez;13;2;Usado;538
-;NœÏez;13;2;Usado;311
-;NœÏez;13;2;Usado;509
-;NœÏez;13;2;Usado;579
-;NœÏez;13;2;Usado;393
-;NœÏez;13;2;Usado;228
-;NœÏez;13;2;Usado;761
-;NœÏez;13;2;Usado;380
-;NœÏez;13;2;Usado;652
-;NœÏez;13;2;Usado;543
-;NœÏez;13;2;Usado;293
-;NœÏez;13;2;Usado;392
-;NœÏez;13;2;Usado;230
-;NœÏez;13;2;Usado;511
-;NœÏez;13;2;Usado;322
-;NœÏez;13;2;Usado;332
-;NœÏez;13;2;Usado;261
+;NÂœÃez;13;2;Usado;482
+;NÂœÃez;13;2;Usado;268
+;NÂœÃez;13;2;Usado;117
+;NÂœÃez;13;2;Usado;360
+;NÂœÃez;13;2;Usado;538
+;NÂœÃez;13;2;Usado;311
+;NÂœÃez;13;2;Usado;509
+;NÂœÃez;13;2;Usado;579
+;NÂœÃez;13;2;Usado;393
+;NÂœÃez;13;2;Usado;228
+;NÂœÃez;13;2;Usado;761
+;NÂœÃez;13;2;Usado;380
+;NÂœÃez;13;2;Usado;652
+;NÂœÃez;13;2;Usado;543
+;NÂœÃez;13;2;Usado;293
+;NÂœÃez;13;2;Usado;392
+;NÂœÃez;13;2;Usado;230
+;NÂœÃez;13;2;Usado;511
+;NÂœÃez;13;2;Usado;322
+;NÂœÃez;13;2;Usado;332
+;NÂœÃez;13;2;Usado;261
 ;Palermo;14;2;Usado;468
 ;Palermo;14;2;Usado;386
 ;Palermo;14;2;Usado;76
@@ -685,58 +685,58 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Saavedra;12;2;Usado;624
 ;Saavedra;12;2;Usado;638
 ;Saavedra;12;2;Usado;640
-;San Crist½bal;3;2;Usado;226
-;San Crist½bal;3;2;Usado;138
-;San Crist½bal;3;2;Usado;203
-;San Crist½bal;3;2;Usado;234
-;San Crist½bal;3;2;Usado;286
-;San Crist½bal;3;2;Usado;229
-;San Crist½bal;3;2;Usado;110
-;San Crist½bal;3;2;Usado;354
-;San Crist½bal;3;2;Usado;311
-;San Crist½bal;3;2;Usado;359
-;San Crist½bal;3;2;Usado;187
-;San Crist½bal;3;2;Usado;692
-;San Crist½bal;3;2;Usado;437
-;San Crist½bal;3;2;Usado;391
-;San Crist½bal;3;2;Usado;288
-;San Crist½bal;3;2;Usado;287
-;San Crist½bal;3;2;Usado;394
-;San Crist½bal;3;2;Usado;204
-;San Crist½bal;3;2;Usado;508
-;San Crist½bal;3;2;Usado;379
-;San Crist½bal;3;2;Usado;511
-;San Crist½bal;3;2;Usado;235
-;San Crist½bal;3;2;Usado;528
-;San Crist½bal;3;2;Usado;413
-;San Crist½bal;3;2;Usado;444
-;San Nicolÿs;1;2;Usado;449
-;San Nicolÿs;1;2;Usado;354
-;San Nicolÿs;1;2;Usado;547
-;San Nicolÿs;1;2;Usado;146
-;San Nicolÿs;1;2;Usado;83
-;San Nicolÿs;1;2;Usado;365
-;San Nicolÿs;1;2;Usado;401
-;San Nicolÿs;1;2;Usado;486
-;San Nicolÿs;1;2;Usado;459
-;San Nicolÿs;1;2;Usado;319
-;San Nicolÿs;1;2;Usado;221
-;San Nicolÿs;1;2;Usado;539
-;San Nicolÿs;1;2;Usado;290
-;San Nicolÿs;1;2;Usado;392
-;San Nicolÿs;1;2;Usado;229
-;San Nicolÿs;1;2;Usado;418
-;San Nicolÿs;1;2;Usado;409
-;San Nicolÿs;1;2;Usado;593
-;San Nicolÿs;1;2;Usado;812
-;San Nicolÿs;1;2;Usado;341
-;San Nicolÿs;1;2;Usado;390
-;San Nicolÿs;1;2;Usado;256
-;San Nicolÿs;1;2;Usado;233
-;San Nicolÿs;1;2;Usado;3615
-;San Nicolÿs;1;2;Usado;3610
-;San Nicolÿs;1;2;Usado;3449
-;San Nicolÿs;1;2;Usado;4693
+;San CristÂ½bal;3;2;Usado;226
+;San CristÂ½bal;3;2;Usado;138
+;San CristÂ½bal;3;2;Usado;203
+;San CristÂ½bal;3;2;Usado;234
+;San CristÂ½bal;3;2;Usado;286
+;San CristÂ½bal;3;2;Usado;229
+;San CristÂ½bal;3;2;Usado;110
+;San CristÂ½bal;3;2;Usado;354
+;San CristÂ½bal;3;2;Usado;311
+;San CristÂ½bal;3;2;Usado;359
+;San CristÂ½bal;3;2;Usado;187
+;San CristÂ½bal;3;2;Usado;692
+;San CristÂ½bal;3;2;Usado;437
+;San CristÂ½bal;3;2;Usado;391
+;San CristÂ½bal;3;2;Usado;288
+;San CristÂ½bal;3;2;Usado;287
+;San CristÂ½bal;3;2;Usado;394
+;San CristÂ½bal;3;2;Usado;204
+;San CristÂ½bal;3;2;Usado;508
+;San CristÂ½bal;3;2;Usado;379
+;San CristÂ½bal;3;2;Usado;511
+;San CristÂ½bal;3;2;Usado;235
+;San CristÂ½bal;3;2;Usado;528
+;San CristÂ½bal;3;2;Usado;413
+;San CristÂ½bal;3;2;Usado;444
+;San NicolÃ¿s;1;2;Usado;449
+;San NicolÃ¿s;1;2;Usado;354
+;San NicolÃ¿s;1;2;Usado;547
+;San NicolÃ¿s;1;2;Usado;146
+;San NicolÃ¿s;1;2;Usado;83
+;San NicolÃ¿s;1;2;Usado;365
+;San NicolÃ¿s;1;2;Usado;401
+;San NicolÃ¿s;1;2;Usado;486
+;San NicolÃ¿s;1;2;Usado;459
+;San NicolÃ¿s;1;2;Usado;319
+;San NicolÃ¿s;1;2;Usado;221
+;San NicolÃ¿s;1;2;Usado;539
+;San NicolÃ¿s;1;2;Usado;290
+;San NicolÃ¿s;1;2;Usado;392
+;San NicolÃ¿s;1;2;Usado;229
+;San NicolÃ¿s;1;2;Usado;418
+;San NicolÃ¿s;1;2;Usado;409
+;San NicolÃ¿s;1;2;Usado;593
+;San NicolÃ¿s;1;2;Usado;812
+;San NicolÃ¿s;1;2;Usado;341
+;San NicolÃ¿s;1;2;Usado;390
+;San NicolÃ¿s;1;2;Usado;256
+;San NicolÃ¿s;1;2;Usado;233
+;San NicolÃ¿s;1;2;Usado;3615
+;San NicolÃ¿s;1;2;Usado;3610
+;San NicolÃ¿s;1;2;Usado;3449
+;San NicolÃ¿s;1;2;Usado;4693
 ;San Telmo;1;2;Usado;4023
 ;San Telmo;1;2;Usado;3549
 ;San Telmo;1;2;Usado;3594
@@ -915,39 +915,39 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Villa Luro;10;2;Usado;1893
 ;Villa Luro;10;2;Usado;3265
 ;Villa Luro;10;2;Usado;2478
-;Villa Ortœzar;15;2;Usado;2803
-;Villa Ortœzar;15;2;Usado;2043
-;Villa Ortœzar;15;2;Usado;2320
-;Villa Ortœzar;15;2;Usado;2436
-;Villa Ortœzar;15;2;Usado;3017
-;Villa Ortœzar;15;2;Usado;2577
-;Villa Ortœzar;15;2;Usado;2583
-;Villa Ortœzar;15;2;Usado;3023
-;Villa Ortœzar;15;2;Usado;2758
-;Villa Ortœzar;15;2;Usado;2489
-;Villa Ortœzar;15;2;Usado;1974
-;Villa Ortœzar;15;2;Usado;1980
-;Villa Ortœzar;15;2;Usado;2832
-;Villa Ortœzar;15;2;Usado;2116
-;Villa Pueyrred½n;12;2;Usado;2366
-;Villa Pueyrred½n;12;2;Usado;2283
-;Villa Pueyrred½n;12;2;Usado;1715
-;Villa Pueyrred½n;12;2;Usado;1280
-;Villa Pueyrred½n;12;2;Usado;2141
-;Villa Pueyrred½n;12;2;Usado;2310
-;Villa Pueyrred½n;12;2;Usado;1414
-;Villa Pueyrred½n;12;2;Usado;1800
-;Villa Pueyrred½n;12;2;Usado;2642
-;Villa Pueyrred½n;12;2;Usado;2252
-;Villa Pueyrred½n;12;2;Usado;2190
-;Villa Pueyrred½n;12;2;Usado;3004
-;Villa Pueyrred½n;12;2;Usado;2864
-;Villa Pueyrred½n;12;2;Usado;2577
-;Villa Pueyrred½n;12;2;Usado;2292
-;Villa Pueyrred½n;12;2;Usado;2626
-;Villa Pueyrred½n;12;2;Usado;2696
-;Villa Pueyrred½n;12;2;Usado;2155
-;Villa Pueyrred½n;12;2;Usado;1811
+;Villa OrtÂœzar;15;2;Usado;2803
+;Villa OrtÂœzar;15;2;Usado;2043
+;Villa OrtÂœzar;15;2;Usado;2320
+;Villa OrtÂœzar;15;2;Usado;2436
+;Villa OrtÂœzar;15;2;Usado;3017
+;Villa OrtÂœzar;15;2;Usado;2577
+;Villa OrtÂœzar;15;2;Usado;2583
+;Villa OrtÂœzar;15;2;Usado;3023
+;Villa OrtÂœzar;15;2;Usado;2758
+;Villa OrtÂœzar;15;2;Usado;2489
+;Villa OrtÂœzar;15;2;Usado;1974
+;Villa OrtÂœzar;15;2;Usado;1980
+;Villa OrtÂœzar;15;2;Usado;2832
+;Villa OrtÂœzar;15;2;Usado;2116
+;Villa PueyrredÂ½n;12;2;Usado;2366
+;Villa PueyrredÂ½n;12;2;Usado;2283
+;Villa PueyrredÂ½n;12;2;Usado;1715
+;Villa PueyrredÂ½n;12;2;Usado;1280
+;Villa PueyrredÂ½n;12;2;Usado;2141
+;Villa PueyrredÂ½n;12;2;Usado;2310
+;Villa PueyrredÂ½n;12;2;Usado;1414
+;Villa PueyrredÂ½n;12;2;Usado;1800
+;Villa PueyrredÂ½n;12;2;Usado;2642
+;Villa PueyrredÂ½n;12;2;Usado;2252
+;Villa PueyrredÂ½n;12;2;Usado;2190
+;Villa PueyrredÂ½n;12;2;Usado;3004
+;Villa PueyrredÂ½n;12;2;Usado;2864
+;Villa PueyrredÂ½n;12;2;Usado;2577
+;Villa PueyrredÂ½n;12;2;Usado;2292
+;Villa PueyrredÂ½n;12;2;Usado;2626
+;Villa PueyrredÂ½n;12;2;Usado;2696
+;Villa PueyrredÂ½n;12;2;Usado;2155
+;Villa PueyrredÂ½n;12;2;Usado;1811
 ;Villa Riachuelo;8;2;Usado;2780
 ;Villa Riachuelo;8;2;Usado;2255
 ;Villa Riachuelo;8;2;Usado;2244
@@ -1011,10 +1011,10 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Villa Urquiza;12;2;Usado;322
 ;Villa Urquiza;12;2;Usado;378
 ;Villa Urquiza;12;2;Usado;366
-;Agronom­a;15;3;Usado;751
-;Agronom­a;15;3;Usado;505
-;Agronom­a;15;3;Usado;548
-;Agronom­a;15;3;Usado;345
+;AgronomÂ­a;15;3;Usado;751
+;AgronomÂ­a;15;3;Usado;505
+;AgronomÂ­a;15;3;Usado;548
+;AgronomÂ­a;15;3;Usado;345
 ;Almagro;5;3;Usado;550
 ;Almagro;5;3;Usado;491
 ;Almagro;5;3;Usado;432
@@ -1303,31 +1303,31 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Colegiales;13;3;Usado;239
 ;Colegiales;13;3;Usado;353
 ;Colegiales;13;3;Usado;553
-;Constituci½n;1;3;Usado;546
-;Constituci½n;1;3;Usado;393
-;Constituci½n;1;3;Usado;527
-;Constituci½n;1;3;Usado;477
-;Constituci½n;1;3;Usado;370
-;Constituci½n;1;3;Usado;443
-;Constituci½n;1;3;Usado;437
-;Constituci½n;1;3;Usado;299
-;Constituci½n;1;3;Usado;701
-;Constituci½n;1;3;Usado;458
-;Constituci½n;1;3;Usado;669
-;Constituci½n;1;3;Usado;347
-;Constituci½n;1;3;Usado;623
-;Constituci½n;1;3;Usado;397
-;Constituci½n;1;3;Usado;453
-;Constituci½n;1;3;Usado;856
-;Constituci½n;1;3;Usado;2041
-;Constituci½n;1;3;Usado;1853
-;Constituci½n;1;3;Usado;1589
-;Constituci½n;1;3;Usado;2330
-;Constituci½n;1;3;Usado;1502
-;Constituci½n;1;3;Usado;1500
-;Constituci½n;1;3;Usado;950
-;Constituci½n;1;3;Usado;1579
-;Constituci½n;1;3;Usado;1017
+;ConstituciÂ½n;1;3;Usado;546
+;ConstituciÂ½n;1;3;Usado;393
+;ConstituciÂ½n;1;3;Usado;527
+;ConstituciÂ½n;1;3;Usado;477
+;ConstituciÂ½n;1;3;Usado;370
+;ConstituciÂ½n;1;3;Usado;443
+;ConstituciÂ½n;1;3;Usado;437
+;ConstituciÂ½n;1;3;Usado;299
+;ConstituciÂ½n;1;3;Usado;701
+;ConstituciÂ½n;1;3;Usado;458
+;ConstituciÂ½n;1;3;Usado;669
+;ConstituciÂ½n;1;3;Usado;347
+;ConstituciÂ½n;1;3;Usado;623
+;ConstituciÂ½n;1;3;Usado;397
+;ConstituciÂ½n;1;3;Usado;453
+;ConstituciÂ½n;1;3;Usado;856
+;ConstituciÂ½n;1;3;Usado;2041
+;ConstituciÂ½n;1;3;Usado;1853
+;ConstituciÂ½n;1;3;Usado;1589
+;ConstituciÂ½n;1;3;Usado;2330
+;ConstituciÂ½n;1;3;Usado;1502
+;ConstituciÂ½n;1;3;Usado;1500
+;ConstituciÂ½n;1;3;Usado;950
+;ConstituciÂ½n;1;3;Usado;1579
+;ConstituciÂ½n;1;3;Usado;1017
 ;Flores;7;3;Usado;1067
 ;Flores;7;3;Usado;1125
 ;Flores;7;3;Usado;737
@@ -1498,37 +1498,37 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Nueva Pompeya;4;3;Usado;2063
 ;Nueva Pompeya;4;3;Usado;2151
 ;Nueva Pompeya;4;3;Usado;2051
-;NœÏez;13;3;Usado;2472
-;NœÏez;13;3;Usado;2625
-;NœÏez;13;3;Usado;2116
-;NœÏez;13;3;Usado;2147
-;NœÏez;13;3;Usado;2229
-;NœÏez;13;3;Usado;2405
-;NœÏez;13;3;Usado;2679
-;NœÏez;13;3;Usado;2143
-;NœÏez;13;3;Usado;3521
-;NœÏez;13;3;Usado;3044
-;NœÏez;13;3;Usado;2061
-;NœÏez;13;3;Usado;3307
-;NœÏez;13;3;Usado;2894
-;NœÏez;13;3;Usado;2428
-;NœÏez;13;3;Usado;2166
-;NœÏez;13;3;Usado;2257
-;NœÏez;13;3;Usado;2220
-;NœÏez;13;3;Usado;2568
-;NœÏez;13;3;Usado;2079
-;NœÏez;13;3;Usado;1759
-;NœÏez;13;3;Usado;1626
-;NœÏez;13;3;Usado;1640
-;NœÏez;13;3;Usado;2292
-;NœÏez;13;3;Usado;1765
-;NœÏez;13;3;Usado;2004
-;NœÏez;13;3;Usado;2617
-;NœÏez;13;3;Usado;2425
-;NœÏez;13;3;Usado;2283
-;NœÏez;13;3;Usado;2246
-;NœÏez;13;3;Usado;1988
-;NœÏez;13;3;Usado;1967
+;NÂœÃez;13;3;Usado;2472
+;NÂœÃez;13;3;Usado;2625
+;NÂœÃez;13;3;Usado;2116
+;NÂœÃez;13;3;Usado;2147
+;NÂœÃez;13;3;Usado;2229
+;NÂœÃez;13;3;Usado;2405
+;NÂœÃez;13;3;Usado;2679
+;NÂœÃez;13;3;Usado;2143
+;NÂœÃez;13;3;Usado;3521
+;NÂœÃez;13;3;Usado;3044
+;NÂœÃez;13;3;Usado;2061
+;NÂœÃez;13;3;Usado;3307
+;NÂœÃez;13;3;Usado;2894
+;NÂœÃez;13;3;Usado;2428
+;NÂœÃez;13;3;Usado;2166
+;NÂœÃez;13;3;Usado;2257
+;NÂœÃez;13;3;Usado;2220
+;NÂœÃez;13;3;Usado;2568
+;NÂœÃez;13;3;Usado;2079
+;NÂœÃez;13;3;Usado;1759
+;NÂœÃez;13;3;Usado;1626
+;NÂœÃez;13;3;Usado;1640
+;NÂœÃez;13;3;Usado;2292
+;NÂœÃez;13;3;Usado;1765
+;NÂœÃez;13;3;Usado;2004
+;NÂœÃez;13;3;Usado;2617
+;NÂœÃez;13;3;Usado;2425
+;NÂœÃez;13;3;Usado;2283
+;NÂœÃez;13;3;Usado;2246
+;NÂœÃez;13;3;Usado;1988
+;NÂœÃez;13;3;Usado;1967
 ;Palermo;14;3;Usado;2310
 ;Palermo;14;3;Usado;2327
 ;Palermo;14;3;Usado;3347
@@ -1747,55 +1747,55 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Saavedra;12;3;Usado;741
 ;Saavedra;12;3;Usado;1143
 ;Saavedra;12;3;Usado;850
-;San Crist½bal;3;3;Usado;1023
-;San Crist½bal;3;3;Usado;874
-;San Crist½bal;3;3;Usado;844
-;San Crist½bal;3;3;Usado;1142
-;San Crist½bal;3;3;Usado;900
-;San Crist½bal;3;3;Usado;1101
-;San Crist½bal;3;3;Usado;419
-;San Crist½bal;3;3;Usado;715
-;San Crist½bal;3;3;Usado;287
-;San Crist½bal;3;3;Usado;715
-;San Crist½bal;3;3;Usado;527
-;San Crist½bal;3;3;Usado;664
-;San Crist½bal;3;3;Usado;324
-;San Crist½bal;3;3;Usado;694
-;San Crist½bal;3;3;Usado;440
-;San Crist½bal;3;3;Usado;98
-;San Crist½bal;3;3;Usado;400
-;San Crist½bal;3;3;Usado;405
-;San Crist½bal;3;3;Usado;581
-;San Crist½bal;3;3;Usado;1246
-;San Crist½bal;3;3;Usado;714
-;San Crist½bal;3;3;Usado;586
-;San Crist½bal;3;3;Usado;580
-;San Crist½bal;3;3;Usado;517
-;San Crist½bal;3;3;Usado;351
-;San Nicolÿs;1;3;Usado;994
-;San Nicolÿs;1;3;Usado;626
-;San Nicolÿs;1;3;Usado;578
-;San Nicolÿs;1;3;Usado;589
-;San Nicolÿs;1;3;Usado;759
-;San Nicolÿs;1;3;Usado;597
-;San Nicolÿs;1;3;Usado;356
-;San Nicolÿs;1;3;Usado;416
-;San Nicolÿs;1;3;Usado;379
-;San Nicolÿs;1;3;Usado;97
-;San Nicolÿs;1;3;Usado;242
-;San Nicolÿs;1;3;Usado;373
-;San Nicolÿs;1;3;Usado;219
-;San Nicolÿs;1;3;Usado;93
-;San Nicolÿs;1;3;Usado;243
-;San Nicolÿs;1;3;Usado;327
-;San Nicolÿs;1;3;Usado;185
-;San Nicolÿs;1;3;Usado;248
-;San Nicolÿs;1;3;Usado;353
-;San Nicolÿs;1;3;Usado;278
-;San Nicolÿs;1;3;Usado;396
-;San Nicolÿs;1;3;Usado;138
-;San Nicolÿs;1;3;Usado;302
-;San Nicolÿs;1;3;Usado;583
+;San CristÂ½bal;3;3;Usado;1023
+;San CristÂ½bal;3;3;Usado;874
+;San CristÂ½bal;3;3;Usado;844
+;San CristÂ½bal;3;3;Usado;1142
+;San CristÂ½bal;3;3;Usado;900
+;San CristÂ½bal;3;3;Usado;1101
+;San CristÂ½bal;3;3;Usado;419
+;San CristÂ½bal;3;3;Usado;715
+;San CristÂ½bal;3;3;Usado;287
+;San CristÂ½bal;3;3;Usado;715
+;San CristÂ½bal;3;3;Usado;527
+;San CristÂ½bal;3;3;Usado;664
+;San CristÂ½bal;3;3;Usado;324
+;San CristÂ½bal;3;3;Usado;694
+;San CristÂ½bal;3;3;Usado;440
+;San CristÂ½bal;3;3;Usado;98
+;San CristÂ½bal;3;3;Usado;400
+;San CristÂ½bal;3;3;Usado;405
+;San CristÂ½bal;3;3;Usado;581
+;San CristÂ½bal;3;3;Usado;1246
+;San CristÂ½bal;3;3;Usado;714
+;San CristÂ½bal;3;3;Usado;586
+;San CristÂ½bal;3;3;Usado;580
+;San CristÂ½bal;3;3;Usado;517
+;San CristÂ½bal;3;3;Usado;351
+;San NicolÃ¿s;1;3;Usado;994
+;San NicolÃ¿s;1;3;Usado;626
+;San NicolÃ¿s;1;3;Usado;578
+;San NicolÃ¿s;1;3;Usado;589
+;San NicolÃ¿s;1;3;Usado;759
+;San NicolÃ¿s;1;3;Usado;597
+;San NicolÃ¿s;1;3;Usado;356
+;San NicolÃ¿s;1;3;Usado;416
+;San NicolÃ¿s;1;3;Usado;379
+;San NicolÃ¿s;1;3;Usado;97
+;San NicolÃ¿s;1;3;Usado;242
+;San NicolÃ¿s;1;3;Usado;373
+;San NicolÃ¿s;1;3;Usado;219
+;San NicolÃ¿s;1;3;Usado;93
+;San NicolÃ¿s;1;3;Usado;243
+;San NicolÃ¿s;1;3;Usado;327
+;San NicolÃ¿s;1;3;Usado;185
+;San NicolÃ¿s;1;3;Usado;248
+;San NicolÃ¿s;1;3;Usado;353
+;San NicolÃ¿s;1;3;Usado;278
+;San NicolÃ¿s;1;3;Usado;396
+;San NicolÃ¿s;1;3;Usado;138
+;San NicolÃ¿s;1;3;Usado;302
+;San NicolÃ¿s;1;3;Usado;583
 ;San Telmo;1;3;Usado;178
 ;San Telmo;1;3;Usado;404
 ;San Telmo;1;3;Usado;333
@@ -2031,46 +2031,46 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Villa Luro;10;3;Usado;4199
 ;Villa Luro;10;3;Usado;5912
 ;Villa Luro;10;3;Usado;6418
-;Villa Ortœzar;15;3;Usado;6111
-;Villa Ortœzar;15;3;Usado;6762
-;Villa Ortœzar;15;3;Usado;6004
-;Villa Ortœzar;15;3;Usado;6081
-;Villa Ortœzar;15;3;Usado;6113
-;Villa Ortœzar;15;3;Usado;6921
-;Villa Ortœzar;15;3;Usado;6391
-;Villa Ortœzar;15;3;Usado;6196
-;Villa Ortœzar;15;3;Usado;5733
-;Villa Ortœzar;15;3;Usado;5204
-;Villa Ortœzar;15;3;Usado;5799
-;Villa Ortœzar;15;3;Usado;6286
-;Villa Ortœzar;15;3;Usado;6858
-;Villa Ortœzar;15;3;Usado;4935
-;Villa Ortœzar;15;3;Usado;6013
-;Villa Ortœzar;15;3;Usado;7989
-;Villa Ortœzar;15;3;Usado;3785
-;Villa Pueyrred½n;12;3;Usado;2545
-;Villa Pueyrred½n;12;3;Usado;3512
-;Villa Pueyrred½n;12;3;Usado;3365
-;Villa Pueyrred½n;12;3;Usado;2988
-;Villa Pueyrred½n;12;3;Usado;1913
-;Villa Pueyrred½n;12;3;Usado;1545
-;Villa Pueyrred½n;12;3;Usado;2230
-;Villa Pueyrred½n;12;3;Usado;1518
-;Villa Pueyrred½n;12;3;Usado;963
-;Villa Pueyrred½n;12;3;Usado;2207
-;Villa Pueyrred½n;12;3;Usado;1485
-;Villa Pueyrred½n;12;3;Usado;2125
-;Villa Pueyrred½n;12;3;Usado;1878
-;Villa Pueyrred½n;12;3;Usado;1443
-;Villa Pueyrred½n;12;3;Usado;1798
-;Villa Pueyrred½n;12;3;Usado;1722
-;Villa Pueyrred½n;12;3;Usado;1019
-;Villa Pueyrred½n;12;3;Usado;1002
-;Villa Pueyrred½n;12;3;Usado;1346
-;Villa Pueyrred½n;12;3;Usado;1800
-;Villa Pueyrred½n;12;3;Usado;2006
-;Villa Pueyrred½n;12;3;Usado;2140
-;Villa Pueyrred½n;12;3;Usado;4053
+;Villa OrtÂœzar;15;3;Usado;6111
+;Villa OrtÂœzar;15;3;Usado;6762
+;Villa OrtÂœzar;15;3;Usado;6004
+;Villa OrtÂœzar;15;3;Usado;6081
+;Villa OrtÂœzar;15;3;Usado;6113
+;Villa OrtÂœzar;15;3;Usado;6921
+;Villa OrtÂœzar;15;3;Usado;6391
+;Villa OrtÂœzar;15;3;Usado;6196
+;Villa OrtÂœzar;15;3;Usado;5733
+;Villa OrtÂœzar;15;3;Usado;5204
+;Villa OrtÂœzar;15;3;Usado;5799
+;Villa OrtÂœzar;15;3;Usado;6286
+;Villa OrtÂœzar;15;3;Usado;6858
+;Villa OrtÂœzar;15;3;Usado;4935
+;Villa OrtÂœzar;15;3;Usado;6013
+;Villa OrtÂœzar;15;3;Usado;7989
+;Villa OrtÂœzar;15;3;Usado;3785
+;Villa PueyrredÂ½n;12;3;Usado;2545
+;Villa PueyrredÂ½n;12;3;Usado;3512
+;Villa PueyrredÂ½n;12;3;Usado;3365
+;Villa PueyrredÂ½n;12;3;Usado;2988
+;Villa PueyrredÂ½n;12;3;Usado;1913
+;Villa PueyrredÂ½n;12;3;Usado;1545
+;Villa PueyrredÂ½n;12;3;Usado;2230
+;Villa PueyrredÂ½n;12;3;Usado;1518
+;Villa PueyrredÂ½n;12;3;Usado;963
+;Villa PueyrredÂ½n;12;3;Usado;2207
+;Villa PueyrredÂ½n;12;3;Usado;1485
+;Villa PueyrredÂ½n;12;3;Usado;2125
+;Villa PueyrredÂ½n;12;3;Usado;1878
+;Villa PueyrredÂ½n;12;3;Usado;1443
+;Villa PueyrredÂ½n;12;3;Usado;1798
+;Villa PueyrredÂ½n;12;3;Usado;1722
+;Villa PueyrredÂ½n;12;3;Usado;1019
+;Villa PueyrredÂ½n;12;3;Usado;1002
+;Villa PueyrredÂ½n;12;3;Usado;1346
+;Villa PueyrredÂ½n;12;3;Usado;1800
+;Villa PueyrredÂ½n;12;3;Usado;2006
+;Villa PueyrredÂ½n;12;3;Usado;2140
+;Villa PueyrredÂ½n;12;3;Usado;4053
 ;Villa Riachuelo;8;3;Usado;3554
 ;Villa Riachuelo;8;3;Usado;3168
 ;Villa Riachuelo;8;3;Usado;1951
@@ -2302,15 +2302,15 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Monte Castro;10;3;A estrenar;1238
 ;Monte Castro;10;3;A estrenar;546
 ;Monte Castro;10;3;A estrenar;1538
-;NœÏez;13;3;A estrenar;1246
-;NœÏez;13;3;A estrenar;971
-;NœÏez;13;3;A estrenar;1385
-;NœÏez;13;3;A estrenar;1150
-;NœÏez;13;3;A estrenar;1394
-;NœÏez;13;3;A estrenar;783
-;NœÏez;13;3;A estrenar;1709
-;NœÏez;13;3;A estrenar;1427
-;NœÏez;13;3;A estrenar;1611
+;NÂœÃez;13;3;A estrenar;1246
+;NÂœÃez;13;3;A estrenar;971
+;NÂœÃez;13;3;A estrenar;1385
+;NÂœÃez;13;3;A estrenar;1150
+;NÂœÃez;13;3;A estrenar;1394
+;NÂœÃez;13;3;A estrenar;783
+;NÂœÃez;13;3;A estrenar;1709
+;NÂœÃez;13;3;A estrenar;1427
+;NÂœÃez;13;3;A estrenar;1611
 ;Palermo;14;3;A estrenar;828
 ;Palermo;14;3;A estrenar;1225
 ;Palermo;14;3;A estrenar;1915
@@ -2375,9 +2375,9 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Saavedra;12;3;A estrenar;268
 ;Saavedra;12;3;A estrenar;582
 ;Saavedra;12;3;A estrenar;578
-;San Crist½bal;3;3;A estrenar;642
-;San Nicolÿs;1;3;A estrenar;616
-;San Nicolÿs;1;3;A estrenar;787
+;San CristÂ½bal;3;3;A estrenar;642
+;San NicolÃ¿s;1;3;A estrenar;616
+;San NicolÃ¿s;1;3;A estrenar;787
 ;Villa Crespo;15;3;A estrenar;921
 ;Villa Crespo;15;3;A estrenar;370
 ;Villa Crespo;15;3;A estrenar;756
@@ -2425,13 +2425,13 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Villa Lugano;8;3;A estrenar;904
 ;Villa Luro;10;3;A estrenar;693
 ;Villa Luro;10;3;A estrenar;620
-;Villa Pueyrred½n;12;3;A estrenar;190
-;Villa Pueyrred½n;12;3;A estrenar;36
-;Villa Pueyrred½n;12;3;A estrenar;563
-;Villa Pueyrred½n;12;3;A estrenar;607
-;Villa Pueyrred½n;12;3;A estrenar;354
-;Villa Pueyrred½n;12;3;A estrenar;679
-;Villa Pueyrred½n;12;3;A estrenar;294
+;Villa PueyrredÂ½n;12;3;A estrenar;190
+;Villa PueyrredÂ½n;12;3;A estrenar;36
+;Villa PueyrredÂ½n;12;3;A estrenar;563
+;Villa PueyrredÂ½n;12;3;A estrenar;607
+;Villa PueyrredÂ½n;12;3;A estrenar;354
+;Villa PueyrredÂ½n;12;3;A estrenar;679
+;Villa PueyrredÂ½n;12;3;A estrenar;294
 ;Villa Riachuelo;8;3;A estrenar;1262
 ;Villa Riachuelo;8;3;A estrenar;856
 ;Villa Riachuelo;8;3;A estrenar;389
@@ -2744,31 +2744,31 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Monserrat;1;3;A estrenar;1014
 ;Monserrat;1;3;A estrenar;1212
 ;Monserrat;1;3;A estrenar;694
-;NœÏez;13;3;A estrenar;974
-;NœÏez;13;3;A estrenar;944
-;NœÏez;13;3;A estrenar;1322
-;NœÏez;13;3;A estrenar;999
-;NœÏez;13;3;A estrenar;692
-;NœÏez;13;3;A estrenar;1123
-;NœÏez;13;3;A estrenar;783
-;NœÏez;13;3;A estrenar;1200
-;NœÏez;13;3;A estrenar;891
-;NœÏez;13;3;A estrenar;972
-;NœÏez;13;3;A estrenar;978
-;NœÏez;13;3;A estrenar;444
-;NœÏez;13;3;A estrenar;974
-;NœÏez;13;3;A estrenar;997
-;NœÏez;13;3;A estrenar;1229
-;NœÏez;13;3;A estrenar;1136
-;NœÏez;13;3;A estrenar;1252
-;NœÏez;13;3;A estrenar;1160
-;NœÏez;13;3;A estrenar;921
-;NœÏez;13;3;A estrenar;739
-;NœÏez;13;3;A estrenar;911
-;NœÏez;13;3;A estrenar;913
-;NœÏez;13;3;A estrenar;987
-;NœÏez;13;3;A estrenar;1327
-;NœÏez;13;3;A estrenar;1312
+;NÂœÃez;13;3;A estrenar;974
+;NÂœÃez;13;3;A estrenar;944
+;NÂœÃez;13;3;A estrenar;1322
+;NÂœÃez;13;3;A estrenar;999
+;NÂœÃez;13;3;A estrenar;692
+;NÂœÃez;13;3;A estrenar;1123
+;NÂœÃez;13;3;A estrenar;783
+;NÂœÃez;13;3;A estrenar;1200
+;NÂœÃez;13;3;A estrenar;891
+;NÂœÃez;13;3;A estrenar;972
+;NÂœÃez;13;3;A estrenar;978
+;NÂœÃez;13;3;A estrenar;444
+;NÂœÃez;13;3;A estrenar;974
+;NÂœÃez;13;3;A estrenar;997
+;NÂœÃez;13;3;A estrenar;1229
+;NÂœÃez;13;3;A estrenar;1136
+;NÂœÃez;13;3;A estrenar;1252
+;NÂœÃez;13;3;A estrenar;1160
+;NÂœÃez;13;3;A estrenar;921
+;NÂœÃez;13;3;A estrenar;739
+;NÂœÃez;13;3;A estrenar;911
+;NÂœÃez;13;3;A estrenar;913
+;NÂœÃez;13;3;A estrenar;987
+;NÂœÃez;13;3;A estrenar;1327
+;NÂœÃez;13;3;A estrenar;1312
 ;Palermo;14;3;A estrenar;1271
 ;Palermo;14;3;A estrenar;1098
 ;Palermo;14;3;A estrenar;1387
@@ -2882,27 +2882,27 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Saavedra;12;3;A estrenar;36
 ;Saavedra;12;3;A estrenar;104
 ;Saavedra;12;3;A estrenar;32
-;San Crist½bal;3;3;A estrenar;118
-;San Crist½bal;3;3;A estrenar;120
-;San Crist½bal;3;3;A estrenar;102
-;San Crist½bal;3;3;A estrenar;100
-;San Crist½bal;3;3;A estrenar;120
-;San Crist½bal;3;3;A estrenar;120
-;San Crist½bal;3;3;A estrenar;40
-;San Crist½bal;3;3;A estrenar;206
-;San Crist½bal;3;3;A estrenar;176
-;San Crist½bal;3;3;A estrenar;190
-;San Crist½bal;3;3;A estrenar;120
-;San Crist½bal;3;3;A estrenar;72
-;San Crist½bal;3;3;A estrenar;90
-;San Crist½bal;3;3;A estrenar;38
-;San Crist½bal;3;3;A estrenar;50
-;San Crist½bal;3;3;A estrenar;80
-;San Crist½bal;3;3;A estrenar;111
-;San Crist½bal;3;3;A estrenar;45
-;San Crist½bal;3;3;A estrenar;38
-;San Crist½bal;3;3;A estrenar;70
-;San Nicolÿs;1;3;A estrenar;80
+;San CristÂ½bal;3;3;A estrenar;118
+;San CristÂ½bal;3;3;A estrenar;120
+;San CristÂ½bal;3;3;A estrenar;102
+;San CristÂ½bal;3;3;A estrenar;100
+;San CristÂ½bal;3;3;A estrenar;120
+;San CristÂ½bal;3;3;A estrenar;120
+;San CristÂ½bal;3;3;A estrenar;40
+;San CristÂ½bal;3;3;A estrenar;206
+;San CristÂ½bal;3;3;A estrenar;176
+;San CristÂ½bal;3;3;A estrenar;190
+;San CristÂ½bal;3;3;A estrenar;120
+;San CristÂ½bal;3;3;A estrenar;72
+;San CristÂ½bal;3;3;A estrenar;90
+;San CristÂ½bal;3;3;A estrenar;38
+;San CristÂ½bal;3;3;A estrenar;50
+;San CristÂ½bal;3;3;A estrenar;80
+;San CristÂ½bal;3;3;A estrenar;111
+;San CristÂ½bal;3;3;A estrenar;45
+;San CristÂ½bal;3;3;A estrenar;38
+;San CristÂ½bal;3;3;A estrenar;70
+;San NicolÃ¿s;1;3;A estrenar;80
 ;San Telmo;1;3;A estrenar;50
 ;San Telmo;1;3;A estrenar;115
 ;San Telmo;1;3;A estrenar;87
@@ -3019,23 +3019,23 @@ id_departamento;barrio;id_comuna;ambientes;estado;superficie
 ;Villa Luro;10;3;A estrenar;341
 ;Villa Luro;10;3;A estrenar;280
 ;Villa Luro;10;3;A estrenar;352
-;Villa Ortœzar;15;3;A estrenar;277
-;Villa Pueyrred½n;12;3;A estrenar;212
-;Villa Pueyrred½n;12;3;A estrenar;469
-;Villa Pueyrred½n;12;3;A estrenar;150
-;Villa Pueyrred½n;12;3;A estrenar;465
-;Villa Pueyrred½n;12;3;A estrenar;116
-;Villa Pueyrred½n;12;3;A estrenar;224
-;Villa Pueyrred½n;12;3;A estrenar;241
-;Villa Pueyrred½n;12;3;A estrenar;404
-;Villa Pueyrred½n;12;3;A estrenar;368
-;Villa Pueyrred½n;12;3;A estrenar;408
-;Villa Pueyrred½n;12;3;A estrenar;586
-;Villa Pueyrred½n;12;3;A estrenar;321
-;Villa Pueyrred½n;12;3;A estrenar;320
-;Villa Pueyrred½n;12;3;A estrenar;362
-;Villa Pueyrred½n;12;3;A estrenar;378
-;Villa Pueyrred½n;12;3;A estrenar;475
+;Villa OrtÂœzar;15;3;A estrenar;277
+;Villa PueyrredÂ½n;12;3;A estrenar;212
+;Villa PueyrredÂ½n;12;3;A estrenar;469
+;Villa PueyrredÂ½n;12;3;A estrenar;150
+;Villa PueyrredÂ½n;12;3;A estrenar;465
+;Villa PueyrredÂ½n;12;3;A estrenar;116
+;Villa PueyrredÂ½n;12;3;A estrenar;224
+;Villa PueyrredÂ½n;12;3;A estrenar;241
+;Villa PueyrredÂ½n;12;3;A estrenar;404
+;Villa PueyrredÂ½n;12;3;A estrenar;368
+;Villa PueyrredÂ½n;12;3;A estrenar;408
+;Villa PueyrredÂ½n;12;3;A estrenar;586
+;Villa PueyrredÂ½n;12;3;A estrenar;321
+;Villa PueyrredÂ½n;12;3;A estrenar;320
+;Villa PueyrredÂ½n;12;3;A estrenar;362
+;Villa PueyrredÂ½n;12;3;A estrenar;378
+;Villa PueyrredÂ½n;12;3;A estrenar;475
 ;Villa Riachuelo;8;3;A estrenar;430
 ;Villa Santa Rita;11;3;A estrenar;363
 ;Villa Santa Rita;11;3;A estrenar;269
