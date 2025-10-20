@@ -36,11 +36,11 @@ Incluye la ampliación del proyecto con vistas, funciones, procedimientos almace
 - `Entrega2_Valdez.pdf` → Documento con el detalle de vistas, funciones, stored procedures y triggers.  
 - `creacion_objetos.sql` → Script que crea todos los objetos de la base de datos (vistas, funciones, procedimientos, triggers).  
 - Carpeta `datos_importacion/` con los archivos CSV numerados según el orden correcto de carga:
-  1_comuna.csv
-  2_departamentos.csv
-  3_alquiler_final.csv
-  4_ventas_final.csv
-  5_prestamos_final.csv
+  - 1_comuna.csv
+  - 2_departamentos.csv
+  - 3_alquiler_final.csv
+  - 4_ventas_final.csv
+  - 5_prestamos_final.csv
 
 ## 🧱 Descripción general
 El proyecto modela un sistema de gestión inmobiliaria que analiza:
